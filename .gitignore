@@ -1,0 +1,7 @@
+.venv/
+.env
+.spotify_token_cache
+.mpl/
+__pycache__/
+*.pyc
+*.egg-info/
